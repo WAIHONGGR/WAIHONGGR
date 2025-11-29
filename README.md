@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I’m WaiHong, a Year 4 student passionate about full-stack and backend development<br>🔧 I’m currently working on improving my skills in building scalable web applications<br>🤝 I’m looking to collaborate on projects involving backend APIs, databases, or full-stack apps<br>❓ I’m looking for help with advanced backend architecture and clean code practices<br>🌱 I’m currently learning backend frameworks, database design, and deployment tools<br>💬 Ask me about my learning journey or the projects I’m building<br>⚡ Fun fact: I enjoy turning ideas into functional apps and exploring new technologies
+🧑‍💻 I’m WaiHong, a passionate about full-stack and backend development<br>🔧 I’m currently working on improving my skills in building scalable web applications<br>🤝 I’m looking to collaborate on projects involving backend APIs, databases, or full-stack apps<br>❓ I’m looking for help with advanced backend architecture and clean code practices<br>🌱 I’m currently learning backend frameworks, database design, and deployment tools<br>💬 Ask me about my learning journey or the projects I’m building<br>⚡ Fun fact: I enjoy turning ideas into functional apps and exploring new technologies
 
 
 ## 🌐 Socials:
